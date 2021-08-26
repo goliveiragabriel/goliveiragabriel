@@ -12,6 +12,7 @@
 - Leadership
 - React
 - Chess
+- Improving solving problem skill;
 
 #### :thought_balloon: I want to learn
 - Rust

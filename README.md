@@ -1,11 +1,19 @@
-### Hi there :heart:
+Hi there :heart:
 ---
-#### 🔭 Working on
+I'm a Full Stack Software Developer with over 8 years experience, among them: 6 years as a software developer and nearly 2 years as a Tech Lead.
+
+#### :computer: Working on
 - C# 
 - .NET stack;
 - Javascript;
+- Web development;
 - Developing tech in business;
 - [Mentoring Program](https://twitter.com/gabridev/status/1421497475177844736)
+
+#### :printer: Worked on
+- Java 
+- Ruby on Rails;
+- PHP;
 
 #### :books: Learning
 - Software architecture
@@ -26,7 +34,11 @@ If you are looking for:
 - Spare time talking about tech;
 
 #### 📫 How to reach me?
-Find me at twitter: [@gabridev](https://twitter.com/gabridev), [linkedin](https://www.linkedin.com/in/goliveiragabriel/)
+Find me at twitter: [@gabridev](https://twitter.com/gabridev), linkedin: [goliveiragabriel](https://www.linkedin.com/in/goliveiragabriel/)
+
+#### :memo: Memo
+
+> This is a picture of me, at the moment I was writing these words. As a ever-changing person it has been changed among time.
 
 <!--
 **goliveiragabriel/goliveiragabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

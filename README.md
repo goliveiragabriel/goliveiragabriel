@@ -26,7 +26,7 @@ If you are looking for:
 - Spare time talking about tech;
 
 #### 📫 How to reach me?
-Find me at twitter: [@gabridev](https://twitter.com/gabridev)
+Find me at twitter: [@gabridev](https://twitter.com/gabridev), [linkedin](https://www.linkedin.com/in/goliveiragabriel/)
 
 <!--
 **goliveiragabriel/goliveiragabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

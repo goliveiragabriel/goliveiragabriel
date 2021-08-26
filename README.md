@@ -1,5 +1,12 @@
 ### Hi there 👋
+---
+#### 🔭 Working on
+- .NEt stack;
+- Javascript;
+- [Mentoring Program](https://twitter.com/gabridev/status/1421497475177844736)
 
+#### 🌱 Learning
+#### 🤔 How can you help me out ?
 <!--
 **goliveiragabriel/goliveiragabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
